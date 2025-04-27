@@ -1,2 +1,1 @@
-# seexam
-ueh
+print("bra")
